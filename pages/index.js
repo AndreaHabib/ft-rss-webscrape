@@ -137,6 +137,6 @@ export async function getStaticProps() {
   });
   return {
     props: { rss },
-    revalidate: 86400,
+    revalidate: 18000,
   };
 }
