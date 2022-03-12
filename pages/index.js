@@ -96,15 +96,6 @@ export default function Home(props) {
         <Typography variant="subtitle2">
           &copy; COPYRIGHT 2021{" "}
           <a
-            style={{ textDecoration: "underline" }}
-            rel="noreferrer noopener"
-            target="_blank"
-            href="https://www.csi.cuny.edu/campus-life/student-services/center-career-and-professional-development"
-          >
-            Career Center
-          </a>
-          {"  "}&{"  "}
-          <a
             href="https://andreahabib.netlify.app/"
             target="_blank"
             rel="noreferrer noopener"
